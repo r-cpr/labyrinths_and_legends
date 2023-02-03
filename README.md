@@ -3,7 +3,7 @@
 
 This is a task sheet for an inquiry task to be used for a Year 10 statistic and probability unit. Designed to be completed over series of lessons, it tasks students with designing a role playing game character they feel would best suit the campaign. The task is open ended and used as a means to engage students with probabilitic reasoning. The probabilites get out of hand pretty quickly, so have fun with it.
 
-This repository contains a word document and pdf to be used or adapted. My own crude images have been included, and this readme can also contains the full task as raw text. No attribution necessary but not for commerical use.
+This repository contains a word document and pdf to be used or adapted. My own crude images have been included, and this readme also the full task as raw text (excluding the character sheet). No attribution necessary but not for commerical use.
 
 Teachers shouldn't need to pay teachers.
 
